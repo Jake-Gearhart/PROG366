@@ -1,1 +1,2 @@
-Assignment 1 can be found as assignment-1.cs
+Assignment 1: PROG-366/PROG-366/Assignment1.cs
+Candy Crush: PROG-366/PROG-366/CandyCrush.cs

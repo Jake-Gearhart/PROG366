@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Lm/yCNjBwP9ANExxSctltCN5YYaa8Nt2w5R5dWZs/FZm7CDswq8p4VcNgS5WvMwNQdUBq/is7zFUoS1ZTr6uQ==",
+  "success": true,
+  "projectFilePath": "/Users/jakegearhart/Projects/PROG-366/PROG-366/PROG-366.csproj",
+  "expectedPackageFiles": [
+    "/Users/jakegearhart/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.18/microsoft.netcore.app.host.osx-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

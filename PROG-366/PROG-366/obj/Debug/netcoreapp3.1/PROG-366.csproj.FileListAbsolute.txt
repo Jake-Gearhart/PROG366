@@ -1,0 +1,13 @@
+/Users/jakegearhart/Projects/PROG-366/PROG-366/bin/Debug/netcoreapp3.1/PROG-366.deps.json
+/Users/jakegearhart/Projects/PROG-366/PROG-366/bin/Debug/netcoreapp3.1/PROG-366.runtimeconfig.json
+/Users/jakegearhart/Projects/PROG-366/PROG-366/bin/Debug/netcoreapp3.1/PROG-366.runtimeconfig.dev.json
+/Users/jakegearhart/Projects/PROG-366/PROG-366/bin/Debug/netcoreapp3.1/PROG-366.dll
+/Users/jakegearhart/Projects/PROG-366/PROG-366/bin/Debug/netcoreapp3.1/PROG-366.pdb
+/Users/jakegearhart/Projects/PROG-366/PROG-366/obj/Debug/netcoreapp3.1/PROG-366.csproj.AssemblyReference.cache
+/Users/jakegearhart/Projects/PROG-366/PROG-366/obj/Debug/netcoreapp3.1/PROG-366.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakegearhart/Projects/PROG-366/PROG-366/obj/Debug/netcoreapp3.1/PROG-366.AssemblyInfoInputs.cache
+/Users/jakegearhart/Projects/PROG-366/PROG-366/obj/Debug/netcoreapp3.1/PROG-366.AssemblyInfo.cs
+/Users/jakegearhart/Projects/PROG-366/PROG-366/obj/Debug/netcoreapp3.1/PROG-366.csproj.CoreCompileInputs.cache
+/Users/jakegearhart/Projects/PROG-366/PROG-366/obj/Debug/netcoreapp3.1/PROG-366.dll
+/Users/jakegearhart/Projects/PROG-366/PROG-366/obj/Debug/netcoreapp3.1/PROG-366.pdb
+/Users/jakegearhart/Projects/PROG-366/PROG-366/obj/Debug/netcoreapp3.1/PROG-366.genruntimeconfig.cache

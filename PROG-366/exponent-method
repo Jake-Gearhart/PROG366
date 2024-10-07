@@ -15,6 +15,7 @@ Postcondition:
 
 Time:
     The function will complete in O(powNum) time, or O(n).
+    When powNum = 1, the function will complete in O(1) time, which is the best-case scenario.
 
 Space:
     The function will complete in O(1) space because there are a fixed number of variables.

@@ -1,5 +1,9 @@
-Assignment 1: PROG-366/PROG-366/Assignment1.cs
+Assignment 1: PROG-366/Assignment1/Program.cs
 
-Candy Crush: PROG-366/PROG-366/CandyCrush.cs
+Candy Crush: PROG-366/CandyCrush/Program.cs
 
-Assignment Exponent Method in C#: PROG-366/exponent-method
+Exponent Method: PROG-366/ExponentMethod/ExponentMethod.txt
+
+Connect 4: PROG-366/Connect4/Program.cs
+
+MatryoshkaDolls: PROG-366/MatryoshkaDolls/MatryoshkaDolls.pdf

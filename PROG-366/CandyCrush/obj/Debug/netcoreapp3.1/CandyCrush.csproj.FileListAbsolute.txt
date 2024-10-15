@@ -1,0 +1,13 @@
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/bin/Debug/netcoreapp3.1/CandyCrush
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/bin/Debug/netcoreapp3.1/CandyCrush.deps.json
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/bin/Debug/netcoreapp3.1/CandyCrush.runtimeconfig.json
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/bin/Debug/netcoreapp3.1/CandyCrush.runtimeconfig.dev.json
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/bin/Debug/netcoreapp3.1/CandyCrush.dll
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/bin/Debug/netcoreapp3.1/CandyCrush.pdb
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/obj/Debug/netcoreapp3.1/CandyCrush.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/obj/Debug/netcoreapp3.1/CandyCrush.AssemblyInfoInputs.cache
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/obj/Debug/netcoreapp3.1/CandyCrush.AssemblyInfo.cs
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/obj/Debug/netcoreapp3.1/CandyCrush.csproj.CoreCompileInputs.cache
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/obj/Debug/netcoreapp3.1/CandyCrush.dll
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/obj/Debug/netcoreapp3.1/CandyCrush.pdb
+/Users/jakegearhart/Projects/PROG-366/CandyCrush/obj/Debug/netcoreapp3.1/CandyCrush.genruntimeconfig.cache

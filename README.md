@@ -8,4 +8,4 @@ Connect 4: PROG-366/Connect4
 
 MatryoshkaDolls: PROG-366/MatryoshkaDolls
 
-Fischer-Yates: PROG-366/Blackjack
+Fisher-Yates: PROG-366/Blackjack

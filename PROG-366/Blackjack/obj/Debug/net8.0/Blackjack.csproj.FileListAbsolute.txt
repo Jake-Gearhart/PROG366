@@ -1,0 +1,14 @@
+/Users/jakegearhart/Projects/PROG-366/Blackjack/bin/Debug/net8.0/Blackjack
+/Users/jakegearhart/Projects/PROG-366/Blackjack/bin/Debug/net8.0/Blackjack.deps.json
+/Users/jakegearhart/Projects/PROG-366/Blackjack/bin/Debug/net8.0/Blackjack.runtimeconfig.json
+/Users/jakegearhart/Projects/PROG-366/Blackjack/bin/Debug/net8.0/Blackjack.dll
+/Users/jakegearhart/Projects/PROG-366/Blackjack/bin/Debug/net8.0/Blackjack.pdb
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/Blackjack.AssemblyInfoInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/Blackjack.AssemblyInfo.cs
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/Blackjack.csproj.CoreCompileInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/Blackjack.dll
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/refint/Blackjack.dll
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/Blackjack.pdb
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/Blackjack.genruntimeconfig.cache
+/Users/jakegearhart/Projects/PROG-366/Blackjack/obj/Debug/net8.0/ref/Blackjack.dll

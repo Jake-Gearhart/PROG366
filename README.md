@@ -1,9 +1,11 @@
-Assignment 1: PROG-366/Assignment1/Program.cs
+Assignment 1: PROG-366/Assignment1
 
-Candy Crush: PROG-366/CandyCrush/Program.cs
+Candy Crush: PROG-366/CandyCrush
 
-Exponent Method: PROG-366/ExponentMethod/ExponentMethod.txt
+Exponent Method: PROG-366/ExponentMethod
 
-Connect 4: PROG-366/Connect4/Program.cs
+Connect 4: PROG-366/Connect4
 
-MatryoshkaDolls: PROG-366/MatryoshkaDolls/MatryoshkaDolls.pdf
+MatryoshkaDolls: PROG-366/MatryoshkaDolls
+
+Fischer-Yates: PROG-366/Blackjack

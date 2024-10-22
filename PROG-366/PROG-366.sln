@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1", "Assignment1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack", "Blackjack\Blackjack.csproj", "{92430E72-A087-42AC-B531-EE6424470D0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", "{59321C03-A969-4F0B-8E28-73587CF0F158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{92430E72-A087-42AC-B531-EE6424470D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92430E72-A087-42AC-B531-EE6424470D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92430E72-A087-42AC-B531-EE6424470D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59321C03-A969-4F0B-8E28-73587CF0F158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59321C03-A969-4F0B-8E28-73587CF0F158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59321C03-A969-4F0B-8E28-73587CF0F158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59321C03-A969-4F0B-8E28-73587CF0F158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

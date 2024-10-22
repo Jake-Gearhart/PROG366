@@ -1,0 +1,14 @@
+/Users/jakegearhart/Projects/PROG-366/Maze/bin/Debug/net8.0/Maze
+/Users/jakegearhart/Projects/PROG-366/Maze/bin/Debug/net8.0/Maze.deps.json
+/Users/jakegearhart/Projects/PROG-366/Maze/bin/Debug/net8.0/Maze.runtimeconfig.json
+/Users/jakegearhart/Projects/PROG-366/Maze/bin/Debug/net8.0/Maze.dll
+/Users/jakegearhart/Projects/PROG-366/Maze/bin/Debug/net8.0/Maze.pdb
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/Maze.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/Maze.AssemblyInfoInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/Maze.AssemblyInfo.cs
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/Maze.csproj.CoreCompileInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/Maze.dll
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/refint/Maze.dll
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/Maze.pdb
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/Maze.genruntimeconfig.cache
+/Users/jakegearhart/Projects/PROG-366/Maze/obj/Debug/net8.0/ref/Maze.dll

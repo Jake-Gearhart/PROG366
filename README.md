@@ -9,3 +9,5 @@ Connect 4: PROG-366/Connect4
 MatryoshkaDolls: PROG-366/MatryoshkaDolls
 
 Fisher-Yates: PROG-366/Blackjack
+
+Maze: PROG-366/Maze

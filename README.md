@@ -11,3 +11,5 @@ MatryoshkaDolls: PROG-366/MatryoshkaDolls
 Fisher-Yates: PROG-366/Blackjack
 
 Maze: PROG-366/Maze
+
+Bag: PROG-366/Bag

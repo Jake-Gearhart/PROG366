@@ -1,0 +1,14 @@
+/Users/jakegearhart/Projects/PROG-366/Bag/bin/Debug/net8.0/Bag
+/Users/jakegearhart/Projects/PROG-366/Bag/bin/Debug/net8.0/Bag.deps.json
+/Users/jakegearhart/Projects/PROG-366/Bag/bin/Debug/net8.0/Bag.runtimeconfig.json
+/Users/jakegearhart/Projects/PROG-366/Bag/bin/Debug/net8.0/Bag.dll
+/Users/jakegearhart/Projects/PROG-366/Bag/bin/Debug/net8.0/Bag.pdb
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/Bag.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/Bag.AssemblyInfoInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/Bag.AssemblyInfo.cs
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/Bag.csproj.CoreCompileInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/Bag.dll
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/refint/Bag.dll
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/Bag.pdb
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/Bag.genruntimeconfig.cache
+/Users/jakegearhart/Projects/PROG-366/Bag/obj/Debug/net8.0/ref/Bag.dll

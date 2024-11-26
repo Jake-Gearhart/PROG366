@@ -30,3 +30,6 @@ An algorithm to merge sorted linked lists.
 
 ### TwoSum
 An algorithm to find which two elements in an array add up to a target sum.
+
+### Sorting
+Implementations of the Bubble Sort, Insertion Sort, Selection Sort, HeapSort, Quick Sort, and Merge Sort algorithms.

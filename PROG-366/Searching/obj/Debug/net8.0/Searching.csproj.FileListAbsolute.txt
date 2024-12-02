@@ -1,0 +1,14 @@
+/Users/jakegearhart/Projects/PROG-366/Searching/bin/Debug/net8.0/Searching
+/Users/jakegearhart/Projects/PROG-366/Searching/bin/Debug/net8.0/Searching.deps.json
+/Users/jakegearhart/Projects/PROG-366/Searching/bin/Debug/net8.0/Searching.runtimeconfig.json
+/Users/jakegearhart/Projects/PROG-366/Searching/bin/Debug/net8.0/Searching.dll
+/Users/jakegearhart/Projects/PROG-366/Searching/bin/Debug/net8.0/Searching.pdb
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/Searching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/Searching.AssemblyInfoInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/Searching.AssemblyInfo.cs
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/Searching.csproj.CoreCompileInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/Searching.dll
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/refint/Searching.dll
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/Searching.pdb
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/Searching.genruntimeconfig.cache
+/Users/jakegearhart/Projects/PROG-366/Searching/obj/Debug/net8.0/ref/Searching.dll

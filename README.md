@@ -36,3 +36,6 @@ Implementations of the Bubble Sort, Insertion Sort, Selection Sort, HeapSort, Qu
 
 ### Searching
 Implementations of the Linear Search, Binary Search, and Interpolation Search algorithms.
+
+### Trie
+Implements a tree data structure in the form of a trie.

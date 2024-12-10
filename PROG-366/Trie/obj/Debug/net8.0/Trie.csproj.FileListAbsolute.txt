@@ -1,0 +1,14 @@
+/Users/jakegearhart/Projects/PROG-366/Trie/bin/Debug/net8.0/Trie
+/Users/jakegearhart/Projects/PROG-366/Trie/bin/Debug/net8.0/Trie.deps.json
+/Users/jakegearhart/Projects/PROG-366/Trie/bin/Debug/net8.0/Trie.runtimeconfig.json
+/Users/jakegearhart/Projects/PROG-366/Trie/bin/Debug/net8.0/Trie.dll
+/Users/jakegearhart/Projects/PROG-366/Trie/bin/Debug/net8.0/Trie.pdb
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/Trie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/Trie.AssemblyInfoInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/Trie.AssemblyInfo.cs
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/Trie.csproj.CoreCompileInputs.cache
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/Trie.dll
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/refint/Trie.dll
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/Trie.pdb
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/Trie.genruntimeconfig.cache
+/Users/jakegearhart/Projects/PROG-366/Trie/obj/Debug/net8.0/ref/Trie.dll

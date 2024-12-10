@@ -23,7 +23,7 @@ An analysis of the time and space complexity of an exponential function.
 Algorithms to perform actions on Matryoshka Dolls, and analyses of their complexity.
 
 ### Maze
-A console-app maze game with a moveable character, collision detection, and winning detection.
+A console-app maze game with a moveable character, collision detection, winning detection, and an auto-solver from any position.
 
 ### MergeSortedLists
 An algorithm to merge sorted linked lists.
